@@ -1,1 +1,1 @@
-# the_odin_project
+# 1st in a set of projects
